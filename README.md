@@ -1,6 +1,6 @@
 # Codex
 
-![codex-photo](codex-photo.jpg)
+![codex-photo](codex-photo-sd.jpg)
 
 **Codex** is a **Co**mmunication **De**vice for **Ex**traterrestrial Beings.
 
