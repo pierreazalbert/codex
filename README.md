@@ -1,5 +1,7 @@
 # Codex
 
+![codex-photo](codex-photo.jpg)
+
 **Codex** is a **Co**mmunication **De**vice for **Ex**traterrestrial Beings.
 
 ### What is Codex?
@@ -12,11 +14,9 @@ According to their plans, the device is capable of recording human speech, and c
 
 The code show in this repository is our attempt at recreating the basic function of the Codex, in order to create a prototype that will hopefully allow us to reply to those who sent us the plans. 
 
-[insert user guide illustration here]
-
 The Codex operates in a similar fashion to what humans call FSMs, Finite State Machines. By default the Codex is idle, and waits for a user to approach it in order to initialise extraterrestrial communication. Once the channel is ready the Codex will start moving, indicating that it is ready to record and translate human speech. As soon as the user starts speaking, the Codex will move faster, showing that it is processing the message and translating it into extraterrestrial language. When the message ends the Codex will mark a pause, then it will play the translated message in extraterrestrial-readable light patterns. The state transition diagram of the Codex FSM is shown below. 
 
-[insert state transition diagram here]
+![codex-diagram](codex-diagram.pdf)
 
 ### How can I build my own Codex?
 
