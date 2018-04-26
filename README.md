@@ -16,7 +16,7 @@ The code show in this repository is our attempt at recreating the basic function
 
 The Codex operates in a similar fashion to what humans call FSMs, Finite State Machines. By default the Codex is idle, and waits for a user to approach it in order to initialise extraterrestrial communication. Once the channel is ready the Codex will start moving, indicating that it is ready to record and translate human speech. As soon as the user starts speaking, the Codex will move faster, showing that it is processing the message and translating it into extraterrestrial language. When the message ends the Codex will mark a pause, then it will play the translated message in extraterrestrial-readable light patterns. The state transition diagram of the Codex FSM is shown below. 
 
-![codex-diagram](codex-diagram.pdf)
+![codex-diagram](codex-diagram.jpg)
 
 ### How can I build my own Codex?
 
